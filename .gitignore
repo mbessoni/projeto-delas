@@ -1,1 +1,4 @@
 /node_modules
+/models/cliente.js
+/controllers/clienteController.js
+/routes/empreendedora.js
