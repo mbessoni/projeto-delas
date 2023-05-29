@@ -2,12 +2,13 @@ const express = require("express");
 const index = require("./routes/index");
 const db = require("./config/dbConecct");
 const empreendedoras = require("./models/empreendedoras");
+const clientes = require("./models/cliente")
 const app = express();
 
 app.use(express.json());
 app.use("/",index);
 app.use("/empreendedoras", empreendedoras);
-//app.use("/clientes", clientes);
+app.use("/clientes", clientes);
 
 db.on("error", console.log.bind(console, 'Erro de conexão'))
 db.once("open", ()=> {
