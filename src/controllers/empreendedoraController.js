@@ -7,6 +7,18 @@ class EmpreendedorasController {
             res.status(200).json(empreendedoras);
         })
     }
+
+    static getByIdEmpreendedoras = (req, res) => {
+        const id = req.params.id;
+
+        empreendedoras.findById(id, (err, empreendedoras) => {
+            if (err) {
+                res.status(400).send({ mensage: `${err.message} - Id da empresa não localizado` })
+            } else {
+                res.status(200).send(empreendedoras);
+            }
+        })
+    }
     
     static createEmpreendedoras = (req, res) => {
         let empreendedora = new empreendedoras(req.body);
