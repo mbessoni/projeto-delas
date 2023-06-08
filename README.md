@@ -190,9 +190,14 @@ Os clientes também podem criar um perfil na plataforma, fornecendo seus dados p
 ## [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
 <br>
 
-### [Tereza Oliveira](https://github.com/TerezaOliveira90)
+#### [Ana Rita](https://github.com/aritarruda)
+#### [Carol Fernanda](https://github.com/Carolfernanda)
 #### [Delis Glória](https://github.com/delisG) 
+#### [Luana Martins](https://github.com/luanamcomin)
 #### [Michelle Bessoni](https://github.com/mbessoni)
+#### [Renata Silvestre](https://github.com/renatasilvestr3)
+#### [Tereza Oliveira](https://github.com/TerezaOliveira90)
+#### [Vanessa Farias](https://github.com/Vr-Farias)
 
 Projeto criado com a orientação e cuidado da Professora [Tereza Oliveira](https://github.com/devcode25))!<br>
 
