@@ -186,10 +186,6 @@ Os clientes também podem criar um perfil na plataforma, fornecendo seus dados p
 
 <h1 align="center">
 
-<p align="center">
-<img src= "#" width="500px" height="150"/>
-</p>
-
 ## [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
 <br>
 
@@ -211,6 +207,3 @@ Projeto criado com a orientação e cuidado da Professora [Tereza Oliveira](http
 
 </span>
 
-<p align="center">
-<img src= "#" width="50%" height="30%"/>
-</p>
