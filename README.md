@@ -2,10 +2,13 @@
 
 
 <p align="center"><b>Projeto Delas</b><p>
+ 
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/132357619/244519633-631f0e09-1ba9-41b8-b1ec-9ee7f98e1229.png" >
 
-# <p align="center"> Senac | Porto Digital | Minas  <p>
-
+<p align="center"> Senac | Porto Digital | Minas  <p>
+ 
 ## Este é um projeto Integrador do curso de aperfeiçoamento Backend | Turma 01  
+<br> 
 <br>
 
 - [:dart: Descrição do Projeto](#-Descrição-do-Projeto)
@@ -183,10 +186,6 @@ Os clientes também podem criar um perfil na plataforma, fornecendo seus dados p
 
 <h1 align="center">
 
-<p align="center">
-<img src= "#" width="500px" height="150"/>
-</p>
-
 ## [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
 <br>
 
@@ -208,6 +207,3 @@ Projeto criado com a orientação e cuidado da Professora [Tereza Oliveira](http
 
 </span>
 
-<p align="center">
-<img src= "#" width="50%" height="30%"/>
-</p>
