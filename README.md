@@ -2,10 +2,13 @@
 
 
 <p align="center"><b>Projeto Delas</b><p>
+ 
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/132357619/244519633-631f0e09-1ba9-41b8-b1ec-9ee7f98e1229.png" >
 
-# <p align="center"> Senac | Porto Digital | Minas  <p>
-
+<p align="center"> Senac | Porto Digital | Minas  <p>
+ 
 ## Este é um projeto Integrador do curso de aperfeiçoamento Backend | Turma 01  
+<br> 
 <br>
 
 - [:dart: Descrição do Projeto](#-Descrição-do-Projeto)
