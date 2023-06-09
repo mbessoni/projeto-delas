@@ -3,16 +3,17 @@ const mongoose = require("mongoose");
 const clienteSchema = new mongoose.Schema(
     {
         id: { type: String },
-        nomeDoCliente: { type: String, required: true },
-        cpf: { type: String, required: true },
-        whatsapp: { type: String, required: true },
-        endereco: { type: Object, required: true },
-        email: { type: String, required: true },
-        dataDeNascimento: { type: String },
-        genero: { type: String, required: true },
-        youLiked: { type: Boolean }
+        nome: { type:String, require:true},
+        cpf: { type: String ,require:true},
+        telefone1: { type: String,require:true },
+        telefone2: { type: String,require:true },
+        email: { type: String,require:true },
+        endereco: { type: Object,require:true },
+        dataNascimento: { type: String ,require:true},
+        genero: { type: String ,require:true},
+        youLiked: {type:Boolean}
     }
-)
+);
 
 const clientes = mongoose.model('cliente', clienteSchema);
 

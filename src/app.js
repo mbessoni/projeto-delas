@@ -3,6 +3,7 @@ const index = require("./routes/index");
 const db = require("./config/dbConecct");
 const empreendedoras = require("./routes/empreendedora");
 const clientes = require("./routes/cliente")
+
 const app = express();
 
 app.use(express.json());

@@ -1,6 +1,6 @@
 const empreendedoras = require("../models/empreendedoras.js");
 
-class EmpreendedorasController {
+class EmpreendedoraController {
 
     static getAllEmpreendedoras = (req, res) => {
         empreendedoras.find((err, empreendedoras) => {
@@ -15,6 +15,18 @@ class EmpreendedorasController {
             if (err) {
                 res.status(400).send({ mensage: `${err.message} - Id da empresa não localizado` })
             } else {
+                res.status(200).send(empreendedoras);
+            }
+        })
+    }
+
+    static getByEmpreendimento = (req, res) => {
+        const parametros = req.query
+        empreendedoras.find(parametros, function (err, empreendedoras) {
+            if (err) {
+                res.status(500).send({ message: err.message })
+            } else {
+
                 res.status(200).send(empreendedoras);
             }
         })
@@ -56,7 +68,6 @@ class EmpreendedorasController {
     } 
 };
 
-
-module.exports = EmpreendedorasController;
+module.exports = EmpreendedoraController;
 
 

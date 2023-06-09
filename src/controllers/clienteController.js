@@ -1,9 +1,8 @@
 const clientes = require("../models/cliente.js");
 
-class ClientesController {
+class ClienteController {
 
     static getAllClientes = (req, res) => {
-
         clientes.find((err, clientes) => {
             res.status(200).json(clientes);
         })
@@ -57,5 +56,4 @@ class ClientesController {
     } 
 };
 
-
-module.exports = ClientesController
+module.exports = ClienteController

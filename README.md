@@ -195,6 +195,7 @@ Os clientes também podem criar um perfil na plataforma, fornecendo seus dados p
 #### [Delis Glória](https://github.com/delisG) 
 #### [Luana Martins](https://github.com/luanamcomin)
 #### [Michelle Bessoni](https://github.com/mbessoni)
+#### [Michelle Luana](https://github.com/Michele324)
 #### [Renata Silvestre](https://github.com/renatasilvestr3)
 #### [Tereza Oliveira](https://github.com/TerezaOliveira90)
 #### [Vanessa Farias](https://github.com/Vr-Farias)
